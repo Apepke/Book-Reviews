@@ -1,5 +1,0 @@
-C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\bin\Debug\MVCDemoDB.dacpac
-C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\bin\Debug\MVCDemoDB.dll
-C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
-C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\obj\Debug\MVCDemoDB.dll
-C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
