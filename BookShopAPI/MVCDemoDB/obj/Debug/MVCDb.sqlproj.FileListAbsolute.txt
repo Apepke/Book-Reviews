@@ -1,0 +1,9 @@
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\bin\Debug\MVCDb.dacpac
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\bin\Debug\MVCDemoDB.dll
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\bin\Debug\MVCDemoDB.pdb
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\obj\Debug\MVCDemoDB.dll
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\obj\Debug\MVCDemoDB.pdb
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\obj\Debug\Model.xml
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\obj\Debug\refactor.xml
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\obj\Debug\postdeploy.sql
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\MVCDemoDB\obj\Debug\predeploy.sql
