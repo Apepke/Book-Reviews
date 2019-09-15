@@ -1,0 +1,9 @@
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\DataLibrary\bin\Debug\DataLibrary.dll
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\DataLibrary\bin\Debug\DataLibrary.pdb
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\DataLibrary\bin\Debug\Dapper.dll
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\DataLibrary\bin\Debug\Dapper.xml
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\DataLibrary\obj\Debug\DataLibrary.csprojAssemblyReference.cache
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\DataLibrary\obj\Debug\DataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\DataLibrary\obj\Debug\DataLibrary.csproj.CopyComplete
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\DataLibrary\obj\Debug\DataLibrary.dll
+C:\Users\Peter W Pepke\source\repos\BookShopAPI\DataLibrary\obj\Debug\DataLibrary.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="MVCDemoDB-Web.config Connection String" description="MVCDemoDB Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=MVCDemoDB;Integrated Security=True;Connect Timeout=60;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Peter\ W\ Pepke\\source\\repos\\BookShopAPI\\BookShopAPI\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='MVCDemoDB']/@connectionString" />
+  </parameter>
+</parameters>
