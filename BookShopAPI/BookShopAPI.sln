@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShopAPI", "BookShopAPI\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibrary", "DataLibrary\DataLibrary.csproj", "{A4529876-9ED3-49B0-8C42-24296DDBEB4C}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MVCDemoDB", "MVCDemoDB\MVCDemoDB.sqlproj", "{9D254F36-D325-4D8F-9147-8247694C58E7}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MVCDb", "MVCDemoDB\MVCDb.sqlproj", "{9D254F36-D325-4D8F-9147-8247694C58E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
